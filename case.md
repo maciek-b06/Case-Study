@@ -6,3 +6,5 @@
  # Two Viewpoints: Business and societal
  # temporary test
  # Intro:
+
+# created word document
