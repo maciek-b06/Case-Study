@@ -23,7 +23,8 @@ Nintendo-The largest Shareholder in Nintendo would be the master trust bank of J
  One of the biggest concerns is data privacy and surveillance practices. Modern gaming systems like PlayStation, Xbox and PC collect large amounts of behavioural data like gameplay patterns, voice interactions , purchasing habits and even location data. These analytics can improve a user’s experience but companies most of the time fail to communicate how the data is being used and shared with third parties. This can expose players, especially the younger ones to privacy intrusions.
 # <ins> Accessibility</ins>
  Accessibility is also a significant ethical concern. In the past, gaming systems excluded people with disabilities due to the hardware customization and inaccessible user interfaces. Only recently gaming companies have started to introduce features and designs such as adaptive controllers, subtitle options and haptic feedback customization. Still, accessibility remains very inconsistent across platforms revealing a gap in ethical responsibility.
-
+# <ins> Summary <ins>
+Overall, this case study brought up very interesting points about how the evolution of gaming platforms increased the rate at which innovations in the computing world occur. The two viewpoints (societal and business) gave the topic a different perspective and examined deeper how the evolution of gaming platforms initiated a monumental development in hardware and software improvement (this is just ideas will edit later :D)
  
 
  
