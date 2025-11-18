@@ -22,6 +22,7 @@ Nintendo-The largest Shareholder in Nintendo would be the master trust bank of J
  Accessibility is also a significant ethical concern. In the past, gaming systems excluded people with disabilities due to the hardware customization and inaccessible user interfaces. Only recently gaming companies have started to introduce features and designs such as adaptive controllers, subtitle options and haptic feedback customization. Still, accessibility remains very inconsistent across platforms revealing a gap in ethical responsibility.
  # temporary test
  # Intro: 
+ quick test
 
  
  
