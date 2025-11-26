@@ -21,8 +21,20 @@ Companies used to just have small purchases for example Mario bros for the NES g
  
 
 
- # Two Viewpoints: Societal
- The development and evolution of gaming platforms havbe heavily influenced the way people communicate, interact with other and spend their free time. In the early stages, gaming systems were viewed as a simple source of entertainment that was utilized within homes, but with technology rapidly advancing, the world of gaming evolved into a cultural phenomenon. The online multiplayer systems, transformed gaming from mostly a solo hobby to a huge social  envoirment where players have made communities, collaborate with others, and compete in multiple ways with others from all over the world. This global connection can create new forms of friendships, teamwork and identity; hence, it is an important aspect and can be a form of escape for many people worldwide.
+ # <ins> Second Viewpoint: Societal <ins>
+ The development and evolution of gaming platforms have heavily influenced how people communicate online and how they spend their free time. In the early stages, gaming systems were seen as simple sources of entertainment used in a few homes, but as they advanced, the world of gaming evolved into a cultural phenomenon. Online multiplayer systems transformed gaming from mainly a solo hobby into a vast social environment where players have formed communities, collaborate with others, and compete with others from all over the world. This global connection can create new forms of friendship, teamwork, and identity; hence, it is an important aspect and can serve as an escape for many people worldwide.   
+
+  
+
+Modern gaming platforms have made us seriously rethink the things we buy online and our ownership rights to the games and cosmetics we purchase. With the gaming market flooded with in-game purchases, virtual currencies, and online marketplaces, people treat digital items almost like real ones. People buy in-game skins and treat them like buying a new outfit or a new pair of shoes: the only thing is, they forget they don't own them, and the company can shut the game down forever, or suddenly release discontinued or rare skins and crash the market overnight. This new era of digital goods in games has shown where companies' loyalties lie, they will do whatever makes them the most money, whether it's the "right" thing to do. We have seen this time and time again, with these companies getting greedier. With every new game that comes out, it feels like there almost must be some form of gambling that keeps players constantly going back to the shop just to keep up with the competition. In extreme cases, some of these mechanics, especially if a game has an online marketplace where its skins have real-world value, have prompted some countries to investigate whether parts of it resemble gambling, sometimes leading to a ban on the system in that country altogether. 
+
+ 
+
+Current day gaming has really blown up from what it once was, when you think of gaming back then it was just a simple pastime, something that was more rare across households, nowadays it is way more normalized, think of the big esports tournaments, those unforgettable characters and just the buzz around livestreaming, gaming is not just a pastime anymore, it's a whole blown entertainment industry. Professional players and massive content creators can pull in huge global audiences and sustain viewership for hours. Slowly, esports are becoming more like actual sports, with sponsorships, massive prize pools, coaching, and sold-out stadiums. All of this has turned gaming into something for people of all ages to enjoy without feeling "different" or weird about it.  
+
+But of course, there's a downside. Online toxicity, cyberbullying, and hate speech still happen. To help fight this, many gaming developers have stepped up, putting rules in place, adding report systems, and rewarding players for good behaviour.   
+
+Finally, the evolution of gaming has led to a change in popular perceptions of tech and learning. Many schools and companies have now started embracing gaming as a concept which have shown several positive effects such as problem-solving, strategy, creativity and teamwork. Educational games, workplace simulations and VR-based training programs indicate how principals of gaming can be applied outside of the space of pure entertainment. From hard sciences to history, game-based learning and simulation are becoming valuable tools for teaching many disciplines.   However, debates continue over screen time, gaming addiction, and the long-term effects of playing violent games, especially amongst young people.  These continuing debates show just how deeply gaming has become embedded into our everyday life and the ways in which society continues to reassess the balance between benefits and potential harm.  
  # <ins>Ethical reflections & improvements</ins>
  The Evolution of gaming systems has introduced a lot of ethical concerns. As gaming keeps on growing, the ethical impact extends beyond entertainment and it affects consumer rights heavily. Some of the ethical concerns like data protection and privacy, player wellbeing, and societal behaviour are major ethical concerns in the evolution of gaming.
 # <ins> Data privacy</ins>
@@ -40,6 +52,14 @@ Companies used to just have small purchases for example Mario bros for the NES g
  for automated moderation, these AI tools need to be reviewed by humans regularly and constantly improved to prevent unfair punishment and mistakes. They should also add appeal systems so they can appeal a decision if they think a mistake has been made or a wrong decision.
 # <ins> Summary <ins>
 Overall, this case study brought up very interesting points about how the evolution of gaming platforms increased the rate at which innovations in the computing world occur. The two viewpoints (societal and business) gave the topic a different perspective and examined deeper how the evolution of gaming platforms initiated a monumental development in hardware and software improvement (this is just ideas will edit later :D)
+
+
+# <ins> Refrences <ins>
+Anderson, C. A., & Bushman, B. J. (2018). Media violence and the development of aggression. Annual Review of Psychology, 69, 165–192. 
+
+Barr, M. (2017). Video games can develop graduate skills in higher education students: A randomised trial. Computers & Education, 113, 86–97. 
+
+Devereux, M., & Hassan, L. (2020). Microtransactions, loot boxes and the psychology of digital spending. Journal of Consumer Behaviour, 19(4), 331–341. 
  
 
  
