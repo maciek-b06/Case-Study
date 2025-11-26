@@ -1,7 +1,7 @@
 
 # <ins>Introduction<ins>
  The Evolution of Gaming Platforms. 
- The evolution of gaming platforms can be dated all the way back to the 1940s, when the first experimental computer-based games were created. This gave rise to an exponentially growing field within not only computing, but the whole world, expanding into a global ecosystem of consoles, PCs and cloud-based streaming services used by millions of people. Over time, each new generation of gaming technology has pushed the boundaries of what computers can do, initiating huge advancements in hardware efficiency and networking infrastructure. These developments have reshaped the entertainment industry as well as broader areas of computing such as graphical user interface design and network infrastructure.
+ The evolution of gaming platforms can be dated all the way back to the 1940s, when the first experimental computer games were created. This gave rise to an exponentially growing field in not only computing, but the whole world. Over time, each new generation of gaming technology has pushed what computers can do, begninning huge advancements in hardware efficiency and networking infrastructure. These developments have reshaped the entertainment industry as well as broader areas of computing such as graphical user interface design and network infrastructure.
  To take a closer look at this evolution, this case study will focus on two key viewpoints: the societal perspective and the business perspective. The societal viewpoint considers how gaming platforms influence our lives, specifically looking at ethical issues surrounding data privacy and accessibility. This is a vital perspective to study as it examines deeper how humans interact with gaming platforms and how those platforms interact with our data. The business viewpoint examines why cost values fluctuated over the years as well as the role shareholders play in releasing consoles and building value inside companies. This perspective is key to understanding why and how gaming platforms have grown so much over the years, showcasing that the field is a lot deeper than just companies making games. 
 # <ins>Business Viewpoint<ins>
 # <ins>Definining the Business View<ins>
@@ -35,6 +35,16 @@ Current day gaming has really blown up from what it once was, when you think of 
 But of course, there's a downside. Online toxicity, cyberbullying, and hate speech still happen. To help fight this, many gaming developers have stepped up, putting rules in place, adding report systems, and rewarding players for good behaviour.   
 
 Finally, the evolution of gaming has led to a change in popular perceptions of tech and learning. Many schools and companies have now started embracing gaming as a concept which have shown several positive effects such as problem-solving, strategy, creativity and teamwork. Educational games, workplace simulations and VR-based training programs indicate how principals of gaming can be applied outside of the space of pure entertainment. From hard sciences to history, game-based learning and simulation are becoming valuable tools for teaching many disciplines.   However, debates continue over screen time, gaming addiction, and the long-term effects of playing violent games, especially amongst young people.  These continuing debates show just how deeply gaming has become embedded into our everyday life and the ways in which society continues to reassess the balance between benefits and potential harm.  
+ # <ins>Comparing the business and societal viewpoints<ins>
+Comparing these two viewpoints is important as it shows how the gaming industry grew in both financial and societal power. By comparing the business viewpoint with the societal viewpoint, we can see how a decision made by a company affects the behaviour and experience of a player. This comparison also highlights how a change in the behaviour of a player can push a company to change their strategies in return.
+
+From a business perspective, the evolution of gaming platforms seen the rise of advancements being made in technology and cost production. Older consoles such as the Atari or the NES were priced based on the capabilities of the company in manufacturing it. Although, as time went on, hardware became a lot more advanced, causing an increase in the price of each product. This further caused higher expectations from the consumers due to the price point, shifting the focus of the companies on consistent progress and innovation within the market. 
+
+In contrast, the societal viewpoint can be described as seeing this evolution in gaming platforms not in terms of money but in terms of the experience. Gaming has progressed from a household and offline activity into a social network, and as companies made better products such as consoles with online connectivity, players got to experience new online multiplayer features. This comparison highlights how the evolution of gaming platforms not only expanded potential for companies to make more money, but also grew communities and new cultural spaces. 
+
+A real-life example of this is the Electronic Entertainment Expo (E3). This gaming convention set history for being the biggest and most attended convention in the world at the time. This event was very important to companies like Microsoft and Sony because it was a huge opportunity to advertise and reveal new consoles and games. This caused major spikes in sales and increased the revenue of the companies. 
+On the other hand, E3 became more of a social gathering where people got to connect with others through shared interests. Millions of people tuned into livestreams of E3, turning it into a global event which connected players from around the world. Even after losing its fame, E3 fans still talk about the iconic moments which occurred during the events. This example highlights how a single event can be seen through both the business viewpoint and the societal viewpoint. 
+
  # <ins>Ethical reflections & improvements</ins>
  The Evolution of gaming systems has introduced a lot of ethical concerns. As gaming keeps on growing, the ethical impact extends beyond entertainment and it affects consumer rights heavily. Some of the ethical concerns like data protection and privacy, player wellbeing, and societal behaviour are major ethical concerns in the evolution of gaming.
 # <ins> Data privacy</ins>
@@ -61,7 +71,9 @@ Barr, M. (2017). Video games can develop graduate skills in higher education stu
 
 Devereux, M., & Hassan, L. (2020). Microtransactions, loot boxes and the psychology of digital spending. Journal of Consumer Behaviour, 19(4), 331–341. 
  
+Liao, S. (2021). The origin and evolution of E3. Washington Post. (online) 11 Jun. Available at: https://www.washingtonpost.com/video-games/2021/06/11/e3-history/.
+‌
+Greenfield, P.M. (1994). Video games as cultural artifacts. Journal of Applied Developmental Psychology, 15(1), pp.3–12. Available at: https://greenfieldlab.psych.ucla.edu/wp-content/uploads/sites/168/2020/03/Videogamesasculturalartifacts1-s2.0-0193397394900035-main.pdf
 
- 
  
 
