@@ -3,6 +3,35 @@
  The Evolution of Gaming Platforms. 
  The evolution of gaming platforms can be dated all the way back to the 1940s, when the first experimental computer games were created. This gave rise to an exponentially growing field in not only computing, but the whole world. Over time, each new generation of gaming technology has pushed what computers can do, begninning huge advancements in hardware efficiency and networking infrastructure. These developments have reshaped the entertainment industry as well as broader areas of computing such as graphical user interface design and network infrastructure.
  To take a closer look at this evolution, this case study will focus on two key viewpoints: the societal perspective and the business perspective. The societal viewpoint considers how gaming platforms influence our lives, specifically looking at ethical issues surrounding data privacy and accessibility. This is a vital perspective to study as it examines deeper how humans interact with gaming platforms and how those platforms interact with our data. The business viewpoint examines why cost values fluctuated over the years as well as the role shareholders play in releasing consoles and building value inside companies. This perspective is key to understanding why and how gaming platforms have grown so much over the years, showcasing that the field is a lot deeper than just companies making games. 
+
+#  <ins> timeline <ins>
+
+**_1962_**- MIT students develop the first recognised game called “Spacewar!” it was created  on minicomputers and mainframes
+
+**_1972-_** Atari release the first consumer grade game. “Pong” kick-starts the whole industry. A simple game with three moving squares to play tennis.
+
+**_1977-_** Atari release the first consumer home console with the Atari 2600. Arcade gaming has already started to plateau. This is a warning sign for the future.
+
+**_1978-_** “Space Invaders” is released to massive excitement. Along with donkey Kong in 1982, this contributed to the arcade in 1982 to generate more income than the music or film industries.
+
+**_1983-_** This year proved to be monumental regarding the gaming industry. This year is known as the video game market crash. In simple terms the industry grew way too fast to maintain (according to the world economic forum). Atari developed two games pinpointed as the final nails in the coffin. They licensed adaptations of “Pac-Man” and “E.T” that were rushed out for the Christmas period. The poor quality and money spent making the game crashed the market. Customer trust was rock bottom. Copies of the “E.T” were found buried by Atari in a New Mexico landfill. It sold so bad they dumped the cartridges.
+
+**_1985-_** Nintendo release their first western console looking to capture the market. The “Nintendo Entertainment System” is an instant success. By the end of production, over 60 million units were sold.  (Encyclopaedia Britannica). This cemented Nintendo as the top company in the industry.
+
+**_1988-_** This year a new competitor enters the fray. This year Sega intends to directly Compete with Nintendos new system, the Super Nintendo Entertainment System (SNES). Sega release the Sega Mega Drive (Genesis in the US). By 1995 Sega claim more than 50% by 1996.
+
+**_1994-_** Nintendos dominance by this year was well and truly over. Sony come and release their Sony PlayStation. The PlayStation set the standard for 3D graphics. By the end of its life the PlayStation was the first console to sell over 100 million units.
+
+**_2000-_** Sony continued their success with their next console the PlayStation 2. Not only was it success for Sony the system to this day is the most sold console ever with a monumental over 160 million units sold worldwide.
+
+**_2001-_** This year a new player in the industry rears its head. Microsoft decide to enter the console market releasing the original Xbox. Despite not coming near Sony in terms of sales it still sold 24 million units. This shows the strength of the industry. A new player can come in with a good product and sell in the millions.
+
+**_2005-_** This year proves pivotal for the future direction of the industry. The Xbox 360 is released this year with the PS3 coming the year after. Despite being around since the 80’s online gaming is made easier than ever. The Xbox sold over 84 million units while the PS3 sold over 87 million units. In 2020 online gaming was valued at $179.1 billion worldwide.
+
+**_2013-_** with the Xbox 360 and PS3 ending their lifespan new releases came this year. The Xbox one and PS4 were released to mixed reviews. The Xbox one released overpriced and was seen to have restrictive terms for online play. This was seized on by Sony outselling Microsoft winning the so called “console wars”. This is seen as a turning point too. From here the industry can be seen shifting to more online play than physical media
+
+**_Present-_** Online gaming as previously stated worth is in the hundreds of billions. A sector overlooked by a lot of people is the mobile gaming market. With the release of the iPhone in 2007 and its app store a new billion-dollar industry was born. Alone it is worth $126.06 billion in 2025, the gaming industry is not slowing down and with early implementation of AI it will keep growing. The industry is being predicted to double and be worth $333.20 Billion by 2030 according to Yahoo finance.
+
 # <ins>Business Viewpoint<ins>
 # <ins>Definining the Business View<ins>
 The Business side of gaming systems is the development of why their cost value went up and down over the years and shareholders in each company that make these consoles release and built over the years and how much value they have gained from consumers when buying their consoles giving an insight of revenue and money they gain.
@@ -60,8 +89,12 @@ On the other hand, E3 became more of a social gathering where people got to conn
  To improve fairness in the matchmaking and algorithmic systems we mentioned, companies need to tell people and increase transparency on how their algorithms work. Matchmaking needs to be based on skill, quality and fair play. Not how much a user is spending on the game. Developers need to regularly test their algorithms and release public results for people to view. Companies are now adding casual and ranked modes which is a major improvement.
  
  for automated moderation, these AI tools need to be reviewed by humans regularly and constantly improved to prevent unfair punishment and mistakes. They should also add appeal systems so they can appeal a decision if they think a mistake has been made or a wrong decision.
-# <ins> Summary <ins>
-Overall, this case study brought up very interesting points about how the evolution of gaming platforms increased the rate at which innovations in the computing world occur. The two viewpoints (societal and business) gave the topic a different perspective and examined deeper how the evolution of gaming platforms initiated a monumental development in hardware and software improvement (this is just ideas will edit later :D)
+# <ins> Conclusion </ins>
+We hope by the end of this report that you have a well-informed opinion and grasp on the massive explosion of the gaming market. Despite being a relatively new technology, it is now one of the biggest industries in the world. Being worth $184 billion in 2023. The gaming market was started unknowingly by scientist in a lab playing with their equipment. It is now a juggernaut of entertainment but also is advancing graphical design and networking. The demands of games getting more graphically intense push manufacturers to make more powerful equipment.
+
+The gaming market has had real life impact. With the rise of Ai, NVidia, traditionally marketed for gaming graphic cards is now worth a stunning $5 trillion according to the BBC. This is from the hardware NVidia perfected making gaming graphics card among other products. We can also see the opposite with the video game market crash of 1983. Bad quality products will hurt any market but for the gaming market the lesson was learned the hard way.
+
+In conclusion the gaming market today is endemic and arguably necessary for human prosperity. the industry has done a lot for the world, but the downsides cannot be ignored. The environmental impact is not negligible nor is the isolation it can promote. Despite this the technological advances year on year are very impressive. It influences billions of people every day. There are 3.32 billion people who play a form of gaming. It is going nowhere and will continue to grow into even more of a giant of industry.
 
 
 # <ins> Refrences <ins>
