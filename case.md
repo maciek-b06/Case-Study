@@ -4,7 +4,7 @@
  The evolution of gaming platforms can be dated all the way back to the 1940s, when the first experimental computer games were created. This gave rise to an exponentially growing field in not only computing, but the whole world. Over time, each new generation of gaming technology has pushed what computers can do, begninning huge advancements in hardware efficiency and networking infrastructure. These developments have reshaped the entertainment industry as well as broader areas of computing such as graphical user interface design and network infrastructure.
  To take a closer look at this evolution, this case study will focus on two key viewpoints: the societal perspective and the business perspective. The societal viewpoint considers how gaming platforms influence our lives, specifically looking at ethical issues surrounding data privacy and accessibility. This is a vital perspective to study as it examines deeper how humans interact with gaming platforms and how those platforms interact with our data. The business viewpoint examines why cost values fluctuated over the years as well as the role shareholders play in releasing consoles and building value inside companies. This perspective is key to understanding why and how gaming platforms have grown so much over the years, showcasing that the field is a lot deeper than just companies making games. 
 
-#  <ins> timeline <ins>
+#  <ins> Timeline <ins>
 
 **_1962_**- MIT students develop the first recognised game called “Spacewar!” it was created  on minicomputers and mainframes
 
